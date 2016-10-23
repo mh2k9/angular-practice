@@ -125,7 +125,7 @@
             },
             {
                 name: 'Arif',
-                location: 'Heart of British Snglish'
+                location: 'Heart of British English'
             },
             {
                 name: 'Mehedi',
